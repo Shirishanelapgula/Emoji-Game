@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "packageManager": "pnpm@9.15.4",
   "engines": {
-    "node": "24.21.0",
+    "node": "20.x",
     "npm": ">=6"
   },
   "dependencies": {
